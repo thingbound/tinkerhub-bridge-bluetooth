@@ -1,6 +1,6 @@
 {
   "name": "tinkerhub-bridge-bluetooth",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "description": "Support for bluetooth devices and peripherals in a Tinkerhub network",
   "repository": "tinkerhub/tinkerhub-bridge-bluetooth",

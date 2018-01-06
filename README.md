@@ -3,7 +3,7 @@
 This module provides access to Bluetooth devices and peripherals in a [Tinkerhub](https://github.com/tinkerhub/tinkerhub) network. These devices can then be
 extended by other plugins to provide device specific functionality.
 
-* **Latest version**: 0.1.0
+* **Latest version**: 0.2.0
 * **Status**: Unstable, currently advertisements seem to stop after a while and no devices can be found.
 
 ## Installation and use
