@@ -12,13 +12,13 @@
     "bluetooth low energy"
   ],
   "scripts": {
-    "test": "node_modules/.bin/eslint lib"
+    "test": "node_modules/.bin/eslint ."
   },
   "dependencies": {
-    "appliances": "^0.2.0",
+    "abstract-things": "^0.6.0",
     "debug": "^3.1.0",
     "noble": "^1.8.1",
-    "tinkerhub": "^2.2.0",
+    "tinkerhub": "^2.5.0",
     "tinkerhub-discovery": "^0.3.1"
   },
   "devDependencies": {

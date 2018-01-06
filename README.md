@@ -1,8 +1,7 @@
 # tinkerhub-bridge-bluetooth
 
-This module provides access to Bluetooth devices and peripherals in a Tinkerhub
-network. These devices can then be extended by other plugins to provide
-device specific functionality.
+This module provides access to Bluetooth devices and peripherals in a [Tinkerhub](https://github.com/tinkerhub/tinkerhub) network. These devices can then be
+extended by other plugins to provide device specific functionality.
 
 * **Latest version**: 0.1.0
 * **Status**: Unstable, currently advertisements seem to stop after a while and no devices can be found.
